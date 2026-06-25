@@ -7,7 +7,6 @@ Feel free to email me at: kevinkunzhong@gmail.com Or DM me on discord: eclipse_c
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ConstellationKev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ConstellationKev&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ConstellationKev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🌐 Socials:
